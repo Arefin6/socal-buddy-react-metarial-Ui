@@ -1,0 +1,21 @@
+.comment-warper{
+    padding:2rem;
+    box-shadow: 15px 15px 15px lightgray;
+    margin-bottom:20px;
+    margin-left:10px ;
+}
+.comment-content{
+    padding:1rem;
+    border-right: 2px solid darkorchid;
+    margin-right: 20px;
+    border-width:100%;
+}
+.comment-content img{
+    width:200px;
+}
+.comment-body{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 50px;
+    color:indigo;
+}
